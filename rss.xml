@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[The Elemental Champions Of The Multiverse]]></title>
         <description><![CDATA[The Elemental Champions Of The Multiverse]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/wiva-riders/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 06 May 2016 04:30:39 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 06 May 2016 04:30:58 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/wiva-riders/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Will we be playing Electric Daisy Carnival?]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3e43d112-df13-47af-bd24-c3aee9165a2b.png">]]></description>
+            <link>https://thegrid.ai/wiva-riders/will-we-be-playing-electric-daisy-carnival/index.html</link>
+            <guid isPermaLink="false">c0be6214-9160-44bd-bd50-7c3ae24e90dd</guid>
+            <pubDate>Fri, 06 May 2016 04:30:24 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Wivaware Custom Rave Clothing?]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/43e94598-8b4a-47fb-9af5-486176371449.png">]]></description>
-            <link>undefinedwivaware-custom-rave-clothing/index.html</link>
+            <link>https://thegrid.ai/wiva-riders/wivaware-custom-rave-clothing/index.html</link>
             <guid isPermaLink="false">35401e50-240f-45c8-9ce3-08e60a2b541e</guid>
             <pubDate>Fri, 06 May 2016 04:30:24 GMT</pubDate>
         </item>
