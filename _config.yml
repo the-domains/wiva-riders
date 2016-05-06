@@ -1,7 +1,7 @@
 name: Wiva Riders
 favicon: null
-layout_spectrum: 0.8032789044082165
-typography_spectrum: 0.9857081631198525
+layout_spectrum: 0
+typography_spectrum: 0.38194
 title: The Elemental Champions Of The Multiverse
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
-  brandStrength: 0.43732461309991777
-  lightness: 0.09479919355362654
-  saturation: 0.14071395806968212
-  rhythmicContrast: 0.8704082346521318
+    - '#ff00f0'
+    - '#000000'
+    - '#19beb2'
+    - '#02fa56'
+    - '#107d75'
+  brandStrength: 1
+  lightness: 1
+  saturation: 0
+  rhythmicContrast: 1
 purpose: []
