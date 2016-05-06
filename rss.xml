@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[The Elemental Champions Of The Multiverse]]></title>
+        <description><![CDATA[The Elemental Champions Of The Multiverse]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 06 May 2016 04:30:39 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Wivaware Custom Rave Clothing?]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/43e94598-8b4a-47fb-9af5-486176371449.png">]]></description>
+            <link>undefinedwivaware-custom-rave-clothing/index.html</link>
+            <guid isPermaLink="false">35401e50-240f-45c8-9ce3-08e60a2b541e</guid>
+            <pubDate>Fri, 06 May 2016 04:30:24 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
